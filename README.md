@@ -89,6 +89,3 @@ move the chat interface to a different page. The chat interface is an
 Impala docs for more information.
 
 ---
-
-Released under the MIT license. Free for any use. ©
-[Matt Kane](https://github.com/ascorbic) 2023.
