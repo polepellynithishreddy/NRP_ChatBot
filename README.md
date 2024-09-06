@@ -1,4 +1,4 @@
-# 🤖 Daneel
+# 🤖 NRP
 
 ## Create your own GPT-powered chat bot
 
